@@ -1,0 +1,15 @@
+py -3 for interactive shell.
+py filename.py for executing file.
+
+Identation
+----------
+Python uses the colon symbol (:) and indentation for showing where blocks of code begin and end (If you come
+from another language, do not confuse this with somehow being related to the ternary operator). That is, blocks in
+Python, such as functions, loops, if clauses and other constructs, have no ending identifiers. All blocks start with a
+colon and then contain the indented lines below it.
+
+
+Datatypes
+---------
+Data types are nothing but variables you use to reserve some space in memory.
+String are identified as a contiguous set of characters represented in the quotation marks.
