@@ -1,0 +1,18 @@
+STEPS TO CREATE LOCAL REPOSITORY AND PUSH IT TO GITHUB.
+-------------------------------------------------------
+git init
+
+git status
+
+git add .
+
+git commit -m "initial commit"
+
+git status
+
+#url for newly created repository : pythonconcepts.git.
+git remote add origin https://github.com/techisantosh3000/pythonconcepts.git
+
+git remote -v
+
+git push -f origin master 
